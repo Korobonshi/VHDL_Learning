@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Day_1_Pematangan_FPGA_konsep_dasar.srcs/sources_1/new/DAY_1_OR.vhd" \
+"../../../../Day_1_Pematangan_FPGA_konsep_dasar.srcs/sim_1/new/TB_OR.vhd" \
+
+# Do not sort compile order
+nosort
