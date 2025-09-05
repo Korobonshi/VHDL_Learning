@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Mon Jan  6 17:14:33 2025
+# Process ID         : 512
+# Current directory  : E:/Xilinx_project/full_adder/full_adder.runs/synth_1
+# Command line       : vivado.exe -log FULL_ADDER_32_Bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source FULL_ADDER_32_Bit.tcl
+# Log file           : E:/Xilinx_project/full_adder/full_adder.runs/synth_1/FULL_ADDER_32_Bit.vds
+# Journal file       : E:/Xilinx_project/full_adder/full_adder.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-BEQKE54
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 3 3300U with Radeon Vega Mobile Gfx  
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 4
+# Host memory        : 3667 MB
+# Swap memory        : 7784 MB
+# Total Virtual      : 11452 MB
+# Available Virtual  : 1677 MB
+#-----------------------------------------------------------
+source FULL_ADDER_32_Bit.tcl -notrace

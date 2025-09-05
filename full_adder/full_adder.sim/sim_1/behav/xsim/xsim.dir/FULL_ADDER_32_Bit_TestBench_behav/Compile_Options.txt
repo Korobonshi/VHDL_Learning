@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "FULL_ADDER_32_Bit_TestBench_behav" "xil_defaultlib.FULL_ADDER_32_Bit_TestBench" -log "elaborate.log" 
