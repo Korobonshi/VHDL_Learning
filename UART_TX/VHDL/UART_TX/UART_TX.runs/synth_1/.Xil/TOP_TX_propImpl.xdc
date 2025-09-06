@@ -1,0 +1,7 @@
+set_property SRC_FILE_INFO {cfile:{E:/Xilinx_project/file xdc/Nexys-4-Master.xdc} rfile:{E:/Xilinx_project/file xdc/Nexys-4-Master.xdc} id:1} [current_design]
+set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN E3 [get_ports clk]
+set_property src_info {type:XDC file:1 line:195 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN E16 [get_ports rst]
+set_property src_info {type:XDC file:1 line:491 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN D4 [get_ports tx]
